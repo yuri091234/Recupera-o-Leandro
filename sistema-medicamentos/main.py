@@ -97,6 +97,4 @@ while True:
     else:
         print("Opção inválida!")
 
-        while True:
-
-            print("TESTE FUNCIONOU")
+    
