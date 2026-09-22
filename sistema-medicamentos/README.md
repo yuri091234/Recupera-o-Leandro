@@ -16,7 +16,7 @@ O sistema permite cadastrar, listar e buscar medicamentos.
 python main.py
 ```
 
-## Funcionalidades
+## Funcionalidades do meu projeto
 
 * Cadastrar medicamentos
 * Listar medicamentos
@@ -24,7 +24,7 @@ python main.py
 * Salvar os medicamentos em arquivo
 * Carregar os medicamentos quando o programa inicia
 
-## Requisitos técnicos utilizados
+## Requisitos utilizados
 
 * `if/elif/else`: usado no menu principal.
 * `while`: mantém o menu funcionando até escolher a opção sair.
