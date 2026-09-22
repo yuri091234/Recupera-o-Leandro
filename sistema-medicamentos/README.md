@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um sistema simples de cadastro de medicamentos feito em Python.
+Este projeto é um sistema simples de cadastro de medicamentos em Python.
 
 O sistema permite cadastrar, listar e buscar medicamentos.
 
